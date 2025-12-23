@@ -4,7 +4,6 @@
 
 [![codewars](https://www.codewars.com/users/AlexBaykov/badges/large)](https://www.codewars.com/users/AlexBaykov)
 
-<a href="https://github.com/BaykovAleksandr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaykovAleksandr&layout=compact&theme=buefy&hide_border=true" /></a> 
 
   ### :hammer_and_wrench: Languages and Tools :
 
